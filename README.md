@@ -100,5 +100,6 @@ This project is open-source and available under the MIT License.
 
 👤 Author
 
-Your Mahdi darbaj
+Mahdi darbaj
+
 GitHub: @mahdidarbaj-cmd
